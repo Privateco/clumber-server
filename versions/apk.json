@@ -1,0 +1,38 @@
+{
+    "versions": [{
+        "code": 7,
+        "name": "0.4.1",
+        "whatsNew": {
+            "en": "code optimization",
+            "zh": "代码优化"
+        }
+    }, {
+        "code": 6,
+        "name": "0.4.0",
+        "whatsNew": {
+            "en": "1. use end-to-end encryption\n2. improve UI\n3. optimize performance\n4.fix some issues",
+            "zh": "1. 使用端到端加密，增强安全性\n2. UI优化\n3. 性能优化\n4. 修复一些错误"
+        }
+    }, {
+        "code": 5,
+        "name": "0.3.0",
+        "whatsNew": {
+            "en": "1. NEW: automatic check for updates\n2. NEW: notice module is now available",
+            "zh": "1. 新增：自动检查更新\n2. 新增：“公告”模块已上线"
+        }
+    }, {
+        "code": 4,
+        "name": "0.2.1",
+        "whatsNew": {
+            "en": "fix issues causing app crashes",
+            "zh": "修复部分情况下app崩溃的问题"
+        }
+    }, {
+        "code": 3,
+        "name": "0.2.0",
+        "whatsNew": {
+            "en": "1. NEW: notifications for new messages\n2. NEW: now you can see connection status on main page\n3. Fix issues causing app crashes",
+            "zh": "1. 新增：新消息提醒\n2. 新增：在主界面上可以看到网络连接状况\n3. 修复部分情况下app崩溃的问题"
+        }
+    }]
+}
